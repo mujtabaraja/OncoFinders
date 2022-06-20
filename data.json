@@ -1,0 +1,114 @@
+[
+    {
+        "Name":"Dr. Michael M. Eleff, MD",
+        "Speciality":"Hematology / Oncology Specialist",
+        "Number":"(732)-235-2465",
+        "Address":"195 Little Albany Street",
+        "City": "New Brunswick",
+        "State": "New Jersey",
+        "ZIP": "08901",
+        "image":"https://faculty.mdanderson.org/content/dam/mdanderson/images/fis/michael_fisch.jpg"
+    },
+
+    {
+        "Name":"Dr. Damanjit Ghuman, MD",
+        "Speciality":"Hematology / Internal Medicine / Medical Oncology",
+        "Number":"(732)-724-1689",
+        "Address":"377 Jersey Ave, Suite 160",
+        "City": "Jersey City",
+        "State": "New Jersey",
+        "ZIP": "07302",
+        "image":"https://docchecker.com/storage/gallery/officephotos/c6923769237_525_Damanjit%20Ghuman.jpg"
+       
+    },
+
+    {
+        "Name":"Dr. Michael J Nissenblatt, MD",
+        "Speciality":"Hematology / Oncology Specialist",
+        "Number":"(732)-390-7750",
+        "Address":"J2 Brier Hill Court",
+        "City": "East Brunswick",
+        "State": "New Jersey",
+        "ZIP": "08816",
+        "image":"https://asteracancercare.org/wp-content/uploads/2021/05/Nissenblatt_WEBSITE.jpg"
+    },
+
+    {
+
+        "Name":"Dr. Juhee Gupta, MD",
+        "Speciality":"Oncology Specialist / Hematologist (Blood)",
+        "Number":"(908)-226-1500",
+        "Address":"35-37 Progress Street, Suite A1",
+        "City": "Edison",
+        "State": "New Jersey",
+        "ZIP": "08820",
+        "image":"https://media.discordapp.net/attachments/987475813979004959/987969894249279509/unknown.png"
+    },
+
+    {
+        "Name":"Dr. Amit A. Patel, MD",
+        "Speciality":"Hematology / Medical Oncology",
+        "Number":"(732)-724-1689",
+        "Address":"377 Jersey Avenue, Suite 160",
+        "City": "Jersey City",
+        "State": "New Jersey",
+        "ZIP": "07302",
+        "image":"https://media.discordapp.net/attachments/987475813979004959/987970373876342794/Screen_Shot_2022-06-19_at_2.41.29_AM.png"
+
+    },
+
+    {
+        "Name":"Dr. Lynne J. Acierno, MD",
+        "Speciality":"Hematology / Internal Medicine / Medical Oncology",
+        "Number":"(201)-478-5800",
+        "Address":"935 Garfield Avenue",
+        "City": "Jersey City",
+        "State": "New Jersey",
+        "ZIP": "07304",
+        "image":"https://media.discordapp.net/attachments/956724014565425264/987970572573081670/Screen_Shot_2022-06-19_at_2.42.18_AM.png"
+    },
+
+    {
+        "Name":"Dr. Lorraine Riotto, MD",
+        "Speciality":"Hematology",
+        "Number":"(201) 823-0243",
+        "Address":"110 Bentley Avenue",
+        "City": "Jersey City",
+        "State": "New Jersey",
+        "ZIP": "07304",
+        "image":"https://www.docspot.com/images/x/p/k/p/w/y.png"
+    },
+
+    {
+        "Name":"Dr. Michael Simaan Badin, MD",
+        "Speciality":"Hematology / Internal Medicine / Medical Oncology",
+        "Number":"(201)-433-4848",
+        "Address":"1947 John F Kennedy Boulevard",
+        "City": "Jersey City",
+        "State": "New Jersey",
+        "ZIP": "07305",
+        "image":"https://media.discordapp.net/attachments/985367975429296141/987970728215334932/Screen_Shot_2022-06-19_at_2.42.55_AM.png"
+    },
+
+    {
+        "Name":"Dr. Simon Badin, MD",
+        "Speciality":"Medical Oncology / Adult Oncology / Adult Hematology",
+        "Number":"(201)-433-4848",
+        "Address":"1947 John F Kennedy Boulevard",
+        "City": "Jersey City",
+        "State": "New Jersey",
+        "ZIP": "07305",
+        "image":"https://doximity-res.cloudinary.com/image/upload/t_public_profile_photo_320x320/qtaswjv639380ul4fg94.jpg"
+    },
+
+    {
+        "Name":"Dr. Rini Palathingal, MD",
+        "Speciality":"Hematologist-Oncologist / Hematology & Oncology",
+        "Number":"(201)-963-2213",
+        "Address":"210 Palisade Avenue",
+        "City": "Jersey City",
+        "State": "New Jersey",
+        "ZIP": "07306",
+        "image":"https://ehfiles.cupstec.com/headshots/palathingal_rini_md.jpg"
+    }
+]

@@ -1,0 +1,123 @@
+/* importing font */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300&display=swap");
+
+body {
+    background-color: #D9FCE0;
+}
+
+* {
+    box-sizing: content-box;
+    font-family: "Poppins", sans-serif;
+    margin: 5;
+    padding: 5;
+    box-sizing: border-box;
+    
+}
+
+
+.container {
+    padding: 0px;
+    margin: 0 auto;
+    max-width: 1000px;
+    text-align: center;
+}
+
+#oncologistList {
+    padding-inline-start: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(340px, 5fr));
+    grid-gap: 20px;
+}
+
+.oncologist {
+    list-style-type:upper-latin ;
+    background-color: #50987B;
+    border-radius: 10px;
+    padding: 10px 20px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-template-areas:
+        'name image'
+        'house image';
+    text-align: left;
+    box-shadow: 8px 8px #95CFC0;
+    transition: width 2s;
+    color: #95CFC0;
+    
+
+}
+
+.oncologist:hover {opacity: 0.6;}
+
+.oncologist > h2 {
+    grid-area: name;
+    margin-bottom: 5px;
+}
+
+.oncologist > p {
+    grid-area: house;
+    margin: 0;
+    margin-top: 0px;
+}
+
+.oncologist > img {
+    max-height: 230px;
+    grid-area: image; 
+    margin-left: 7px;
+    margin-top: 25px;
+    border-radius: 10px;
+    box-shadow: 7px 7px #017C58;
+}
+
+.searchWrapper {
+  display: flex;
+}
+
+/* changes the appearance of the search bar*/ 
+input {
+  width: 700px;
+  height: 70px;
+  border-radius: 20px;
+  border: none;
+  outline: none;
+  text-indent: 15px;
+  font-size: 16px;
+  caret-color: black;
+  box-shadow: 10px 10px #95CFC0;
+  transition: width 1s;
+ 
+}
+
+input:hover {
+    width: 500px;
+  }
+
+.btn {
+    background-color: #50987B;
+    border: none;
+    color: #BADDCE;
+    padding: 18px 30px;
+    text-align: center;
+    font-size: 20px;
+    margin: 10px 7px;
+    opacity: 1;
+    transition: 1s;
+    border-radius: 5px;
+    box-shadow: 8px 8px #95CFC0;
+    transition: width 3s;
+    margin-top: 25px;
+    margin-bottom: 35px;
+ 
+
+  }
+  
+  .btn:hover {opacity: 0.6;
+   
+        }
+
+        .link:visited,
+        .link:link{
+          text-decoration:none;
+          color:#BADDCE;
+        }
+        
